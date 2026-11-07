@@ -7,4 +7,3 @@ no shutdown
 exit
 do write memory
 do show ip interface brief
-```[cite: 27]
